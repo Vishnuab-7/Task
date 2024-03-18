@@ -1,0 +1,36 @@
+
+.form { 
+    text-align: center;
+}
+.ex3{
+    text-align: center;
+}
+
+
+.submit{
+    justify-content: center;
+}
+ .container{
+    border: 1px solid black;
+    width: auto;
+
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 120px;
+
+}
+.h3{
+    text-align: center;
+}
+.foot{
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 350px;
+    margin-right: 500px;
+}
+
